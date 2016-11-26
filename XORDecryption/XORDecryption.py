@@ -36,4 +36,3 @@ for i in range(17576):
     if flag:
         print s[i]
         break
-    
