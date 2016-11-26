@@ -4,3 +4,4 @@
 3. Prime Summations
 4. XORDecryption
 5. Multiples of 3 and 5
+6. Special Pythagorean triplet
