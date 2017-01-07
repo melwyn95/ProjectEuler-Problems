@@ -7,3 +7,4 @@
 6. Special Pythagorean triplet
 7. Summation Of Primes (Used Seive of Eratosthenes)
 8. Digit Factorial Chain
+9. Maximum Path Sum 1 (Took Help From Discussion)(Very Important and Interesting Problem uses concept of BFS)
