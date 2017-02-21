@@ -8,4 +8,4 @@
 7. Summation Of Primes (Used Seive of Eratosthenes)
 8. Digit Factorial Chain
 9. Maximum Path Sum 1 (Took Help From Discussion)(Very Important and Interesting Problem uses concept of BFS)
-10. Highly divisible triangular number
+10. Highly divisible triangular number (Trick to this problem was to find the number of factors a number has we have to multiply the powers of its prime factors + 1 e.g. (p+1)(q+1)(r+1))
