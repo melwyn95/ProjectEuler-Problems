@@ -11,3 +11,4 @@
 10. Highly divisible triangular number (Trick to this problem was to find the number of factors a number has we have to multiply the powers of its prime factors + 1 e.g. (p+1)(q+1)(r+1))
 11. Pandigital Prime (Generated permuations of digits!!!! :))
 12. Largest product in a grid
+13. Coded triangle numbers
