@@ -12,3 +12,4 @@
 11. Pandigital Prime (Generated permuations of digits!!!! :))
 12. Largest product in a grid
 13. Coded triangle numbers
+14. Pentagon Numbers (use property of pentagonal numbers i.e. n=(sqrt(1+24*x)+1)/6 is natural number)
