@@ -15,3 +15,4 @@
 14. Pentagon Numbers (use property of pentagonal numbers i.e. n=(sqrt(1+24*x)+1)/6 is natural number)
 15. Truncatable primes (very un-optimized NEED TO OPTIMIZE SOLUTION)
 16. Non-abundant sums
+17. N-Digit Fibonacci Number
