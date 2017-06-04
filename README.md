@@ -16,3 +16,4 @@
 15. Truncatable primes (very un-optimized NEED TO OPTIMIZE SOLUTION)
 16. Non-abundant sums
 17. N-Digit Fibonacci Number
+18. Goldbach's other conjecture
