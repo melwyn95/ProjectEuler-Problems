@@ -18,3 +18,5 @@
 17. N-Digit Fibonacci Number
 18. Goldbach's other conjecture
 19. Amicable Numbers
+20. Prime power triples
+21. Circular Primes
