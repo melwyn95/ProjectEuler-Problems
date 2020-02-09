@@ -20,3 +20,4 @@
 19. Amicable Numbers
 20. Prime power triples
 21. Circular Primes
+22. Quadratic Primes
