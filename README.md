@@ -21,3 +21,4 @@
 20. Prime power triples
 21. Circular Primes
 22. Quadratic Primes
+23. Lexicographic Permutations
