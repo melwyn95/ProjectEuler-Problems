@@ -22,3 +22,4 @@
 21. Circular Primes
 22. Quadratic Primes
 23. Lexicographic Permutations
+24. Lattice Paths
